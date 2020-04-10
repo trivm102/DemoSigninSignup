@@ -1,0 +1,4 @@
+rootProject.name='GetJobApplication'
+include ':app'
+include ':apiservice'
+include ':model'
